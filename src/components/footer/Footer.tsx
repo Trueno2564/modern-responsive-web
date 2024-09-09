@@ -1,8 +1,7 @@
 import React from 'react'
 import { dataFooter } from './Footer.data'
-import { dataFooterTypes } from './Footer.types'
 
-function Footer(props: dataFooterTypes) {
+function Footer() {
     return (
         <footer className='p-5 mt-10 text-black bg-violet-500 md:px-20 md:py-10'>
             <div className='grid md:grid-cols-[450px_1fr_1fr_1fr] md:gap-10'>

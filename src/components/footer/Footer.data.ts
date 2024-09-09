@@ -32,7 +32,7 @@ export const dataFooter = [
             {
                 id: 3,
                 text1: "(+57) 323 363 9325",
-                text2: "118 Loren ipsum",
+                text2: "brianregalado2564@gmail.com",
                 text3: "Colombia, Ipiales (524060)",
                 text4: ""
             }
