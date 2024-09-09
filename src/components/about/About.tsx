@@ -13,6 +13,8 @@ function About() {
                 <span className='text-pink-400'>mejorando nuestros productos</span>
                 <br/>durante anios
                 </h2>
+                <p className='mb-10'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi et perspiciatis ducimus iusto odio aliquid possimus exercitationem fuga eos cupiditate? Error, quis labore. Quas autem modi nostrum enim sint illum.</p>
+                <button className='px-8 py-3 bg-pink-400 rounded-xl text-white'>Empieza ya</button>
             </div>
         </div>
     )
