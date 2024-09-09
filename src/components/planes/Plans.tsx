@@ -1,7 +1,6 @@
 'use client'
 import React, { useState } from 'react'
 import PricesPlans from './PricesPlans/PricesPlans'
-import { PricesPlansProps } from './PricesPlans/PricesPlans.types'
 
 function Plans() {
     const [isMonthly, setIsMonthly] = useState(true)
